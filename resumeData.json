@@ -104,14 +104,8 @@
       {
         "title":"JPMC-tech-task-3-PY",
         "category":"JPMC Experience in Software Engineering",
-        "image":"JMPC.jpg",
+        "image":"JMPC.png",
         "url":"https://github.com/holliemansfield/JPMC-tech-task-3-PY3"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"hollies-resume.jpg",
-        "url":"http://www.timbakerdev.com"
       }
     ]
   },
