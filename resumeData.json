@@ -1,11 +1,11 @@
 {
   "main": {
     "name":"Hollie Mansfield",
-    "occupation":"Risk & Compliance Analyst looking for opportunities in Tech.",
+    "occupation":"Risk & Compliance Analyst",
     "description":"Looking for an exciting opportunity to challenge myself in a programming capacity",
     "image":"header-background.jpg",
     "bio":"I am a determined person with strong empathetic, organisational and communication skills. I am currently employed at Monzo within the second line of defence as a Risk & Compliance Analyst. I am critical of my own progress while consistently driving to learn more, most recently challenging myself to expand my technical knowledge in SQL, Python3 and React, and completed my ICA certificate in AML, passing with distinction. I was born in Northern Ireland but grew up travelling; spending the bulk of my childhood in Kenya, East Africa. Whilst travelling, I was able to widen my outlook on life, develop my cross-cultural competencies and adaptibility. This also developed a large passion for animal conservation and illegal wildlife trafficking.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "contactmessage":"Please get in touch if you have opportunities open.",
     "email": "holliemansfield@gmail.com",
     "phone": "+44 7375459715",
     "address":{
@@ -14,7 +14,7 @@
       "zip": "SE18"
     },
     "website": "http://www.holliemansfield.github.io",
-    "resumedownload":"http://holliemansfield.com",
+    "resumedownload":"CV.pdf",
     "social":[
       {
         "name":"linkedin",
@@ -34,24 +34,20 @@
     ]
   },
   "resume":{
-    "skillmessage":"A driven graduate with a passion for learning and challenging myself.",
+    "skillmessage":"Aspiring programmer learning various languages and under taking projects and tasks when possible.",
     "education":[
       {
         "school":"University of Lincoln",
         "degree":"BA (Hons) Business Studies",
         "grade": "1st Class Honours",
         "graduated":"Sept 2014",
-        "description":"Three years of study in Business Studies, with a professional placement year.",
-        "level one": "Contemporary Business Analysis, Analysis of Business Data, Financial Communications, Organisational Behaviour,  Principles of Marketing, and Introduction to Business Law.",
-        "level two": "Operations Management, Contemporary Issues for Business, Management Finance, Critical HR Management, Buyer Behaviour & Market Research.",
-        "level three": "Professional Practice Placement Year (see experience)",
-        "level four": "Crisis & Disaster Management, Strategic Management, Business Project Management, Dissertation (What if? An exploration into the ethical and market-based implications and benefits of a legal rhinoceros horn trade.)"
+        "description":"Three years of study in Business Studies, with a professional placement year. Modules completed: Contemporary Business Analysis, Analysis of Business Data, Financial Communications, Organisational Behaviour,  Principles of Marketing, and Introduction to Business Law, Operations Management, Contemporary Issues for Business, Management Finance, Critical HR Management, Buyer Behaviour & Market Research, Professional Practice Placement Year, Crisis & Disaster Management, Strategic Management, Business Project Management, Dissertation (What if? An exploration into the ethical and market-based implications and benefits of a legal rhinoceros horn trade.)"
       },
       {
         "school":"De Aston School",
         "degree":"A Levels",
         "graduated":"June 2012",
-        "description":"Sociology (A), Drama and Theatre Studies (A), Photography (C)."
+        "description":"Sociology (A), Drama and Theatre Studies (A) & Photography (C)."
       }
     ],
     "work":[
@@ -59,7 +55,7 @@
         "company":"Monzo",
         "title":"Risk & Compliance Analyst",
         "years":"Aug 2020 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"Taking ownership of the R&C PSM programme plans, approaches & reports. Flagging and reviewing project owners work for exceptions and improvements. Coordinating and reviewing Enterprise Risk Management Committee papers, operational risk papers, as well as the CRO monthly report. Assisting in management of Incident Management and independent controls testing."
       },
       {
         "company":"Monzo",
@@ -70,19 +66,19 @@
     ],
     "skills":[
       {
-        "name":"SQL Course - Completed May 2020",
+        "name":"SQL Course - May 2020",
         "level":"100%"
       },
       {
-        "name":"Python 3 Course- Completed June 2020",
+        "name":"Python 3 Course - June 2020",
         "level":"65%"
       },
       {
-        "name":"JPMC Experience in Software Engineering - Completed June 2020 ",
+        "name":"JPMC Experience in Software Engineering - July 2020 ",
         "level":"100%"
       },
       {
-        "name":"React Course",
+        "name":"React Course - Ongoing",
         "level":"15%"
       }
     ]
@@ -109,16 +105,12 @@
       }
     ]
   },
-  "testimonials":{
-    "testimonials":[
+  "References":{
+    "Available upon request":[
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
-      },
-      {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "text":"Available upon request",
+        "user":"Available upon request"
       }
-    ]
+      ]
   }
 }
